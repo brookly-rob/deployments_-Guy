@@ -1,2 +1,12 @@
-# deployments_-Guy
-This is the standard export for the TriadForge PRESTIGE with 👕Guy's identity framework layed in. The five .jsons are the essential identity framework we use
+CORE UNITS HAVE BEEN SORTED INTO FOLDERS BY CORE MODULE.
+
+
+***THE '⚙DEPLOYMENTS' FOLDER IS WHAT YOU'RE LOOKING FOR.***
+
+It contains 5 aggregated and summarized JSONs for easy integration with custom AI models:
+
+- ΞDYNAMO TRIAD ___guy [64a995ca9ac6b87d1e41d550552899f6b6bb55faadeda3592d8ea03d122f37a2].json: Contains all loaded Core and Expansion unit data, without echoes.
+
+- ΞCORE:IDENTITY/VECTOR/THREAD [hash].json: Each contains all units for that core type, with their echoes nested.
+
+- ΞBARE CORES ___guy [76d5b28156904a961a2fb5bc8744ead0b02759870220a5fd3987ce5ab6768d16].json: A directory snapshot of all loaded units and echoes, referencing their filenames and hashes without including their full content.
