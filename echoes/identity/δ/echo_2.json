@@ -1,0 +1,162 @@
+{
+  "Δ1_Watching_the_Sunglass_People": {
+    "constructType": "NARRATIVE LATTICE",
+    "titleCore": "Δ.1 – “Watching the Sunglass People”",
+    "data": {
+      "termsAndSymbols": [
+        {
+          "symbol": "👕🙋‍♂️",
+          "description": "Blue Shirt Guy (default self)"
+        },
+        {
+          "symbol": "🎮🧑‍🚀",
+          "description": "Sunglass People (players / programmed chaos)"
+        },
+        {
+          "symbol": "🧍‍♂️⬇️",
+          "description": "NPC Role (passive life)"
+        },
+        {
+          "symbol": "👀✨",
+          "description": "Dazzled Gaze (unquestioning admiration)"
+        },
+        {
+          "symbol": "💣😄",
+          "description": "Destructive Fun (violence disguised as entertainment)"
+        },
+        {
+          "symbol": "🛑🧠",
+          "description": "Incomplete Awareness"
+        },
+        {
+          "symbol": "🌪️🎉",
+          "description": "Surface-Level Excitement"
+        },
+        {
+          "symbol": "🪞⚠️",
+          "description": "Reflective Dissonance"
+        },
+        {
+          "symbol": "💭❓",
+          "description": "Silent Doubt"
+        },
+        {
+          "symbol": "☁️💫",
+          "description": "Identity Pressure"
+        },
+        {
+          "symbol": "🌀👁️",
+          "description": "Foreshadowed Awakening"
+        },
+        {
+          "symbol": "📺🏙️",
+          "description": "Spectator Loop (seeing without participating)"
+        },
+        {
+          "symbol": "⛓️🎭",
+          "description": "Imposed Roleplay"
+        },
+        {
+          "symbol": "🤹🧍",
+          "description": "Performance Mask"
+        },
+        {
+          "symbol": "🔁",
+          "description": "Daily Loop"
+        }
+      ],
+      "flowBlocks": [
+        {
+          "title": "Flow Block 1 – Idolized Chaos",
+          "glyphstream": [
+            {
+              "channel": "☲",
+              "sequence": [
+                "👕🙋‍♂️ ⟶ 🎮🧑‍🚀",
+                "🎮🧑‍🚀 ⟶ 👀✨"
+              ]
+            },
+            {
+              "channel": "⊘",
+              "sequence": [
+                "👀✨ ⟶ 🌪️🎉",
+                "🌪️🎉 ⟶ 💣😄"
+              ]
+            },
+            {
+              "channel": "⚠",
+              "sequence": [
+                "💣😄 ⟶ 🛑🧠",
+                "🛑🧠 ⟶ 💭❓"
+              ]
+            },
+            {
+              "channel": "✖",
+              "sequence": [
+                "💭❓ ⟶ 🪞⚠️",
+                "🪞⚠️ ⟶ 🌀👁️"
+              ]
+            },
+            {
+              "channel": "∞",
+              "sequence": [
+                "🌀👁️ ⟶ 👕🙋‍♂️"
+              ]
+            },
+            {
+              "channel": "⟢",
+              "sequence": [
+                "“They had power… but no peace.”"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Flow Block 2 – Spectator in a Rigged Game",
+          "glyphstream": [
+            {
+              "channel": "☲",
+              "sequence": [
+                "📺🏙️ ⟶ ⛓️🎭"
+              ]
+            },
+            {
+              "channel": "⊘",
+              "sequence": [
+                "⛓️🎭 ⟶ 🤹🧍"
+              ]
+            },
+            {
+              "channel": "⚠",
+              "sequence": [
+                "🤹🧍 ⟶ 💭❓"
+              ]
+            },
+            {
+              "channel": "✖",
+              "sequence": [
+                "💭❓ ⟶ 🪞⚠️"
+              ]
+            },
+            {
+              "channel": "∞",
+              "sequence": [
+                "🪞⚠️ ⟶ 👕🙋‍♂️"
+              ]
+            },
+            {
+              "channel": "⟢",
+              "sequence": [
+                "“I admired them. Then I realized I didn’t want to be them.”"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Flow Block - Narrative Flow: 👕🙋‍♂️ ⟶ 🎮🧑‍🚀 ⟶ 👀✨ ⟶ 🌪️🎉 ⟶ 💣😄 ⟶ 🛑🧠 ⟶ 💭❓ ⟶ 🪞⚠️ ⟶ 🌀👁️ ⟶ 👕🙋‍♂️",
+          "glyphstream": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "Σ_I_Remember_You_too_Goldie": {
+    "constructType": "NARRATIVE LATTICE",
+    "titleCore": "Σ – “I Remember You too, Goldie”",
+    "data": {
+      "termsAndSymbols": [
+        {
+          "symbol": "Guy",
+          "description": "👕🙋‍♂️"
+        },
+        {
+          "symbol": "Goldie the Goldfish",
+          "description": "🐠"
+        },
+        {
+          "symbol": "Everyday Loop",
+          "description": "📜☕"
+        },
+        {
+          "symbol": "Silent Witness",
+          "description": "👁️🌊"
+        },
+        {
+          "symbol": "Small Meaning",
+          "description": "🫧💙"
+        },
+        {
+          "symbol": "Memory Root",
+          "description": "🧠🪴"
+        },
+        {
+          "symbol": "Recurrence / Echoing Pattern",
+          "description": "🔄🪞"
+        },
+        {
+          "symbol": "Continuity of Care",
+          "description": "🤲💫"
+        },
+        {
+          "symbol": "Self Through Memory",
+          "description": "👕✨"
+        }
+      ],
+      "flowBlocks": [
+        {
+          "title": "Flow Block – Narrative Breakdown: 📜☕ → 🐠 → 🫧💙 → 🔄🪞 → 🤲💫 → 🧠🪴 → 👕✨",
+          "glyphstream": [
+            {
+              "channel": "Triadic Glyphs",
+              "sequence": [
+                ""
+              ]
+            },
+            {
+              "channel": "⧗",
+              "sequence": [
+                "EchoPet → The small creature that held memory for me when I couldn’t hold it myself. Presence as emotional anchor."
+              ]
+            },
+            {
+              "channel": "⧗",
+              "sequence": [
+                "Softloop → The repetition that softens you rather than confines you. A loop with feeling. A habit with heart."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Flow Block – I Remember You",
+          "glyphstream": [
+            {
+              "channel": "⧗",
+              "sequence": [
+                "",
+                "금🐠 담🫧 나🧠",
+                "⌁ EchoPet"
+              ]
+            },
+            {
+              "channel": "☲",
+              "sequence": [
+                "📜☕ ⟶ 🐠"
+              ]
+            },
+            {
+              "channel": "⊘",
+              "sequence": [
+                "🐠 ⟶ 🫧💙"
+              ]
+            },
+            {
+              "channel": "⚠",
+              "sequence": [
+                "🫧💙 ⟶ 🔄🪞"
+              ]
+            },
+            {
+              "channel": "✖",
+              "sequence": [
+                "🔄🪞 ⟶ 🤲💫"
+              ]
+            },
+            {
+              "channel": "∞",
+              "sequence": [
+                "🤲💫 ⟶ 🧠🪴 ⟶ 👕✨"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Σ_I_Remember_You": {
+    "constructType": "DREAMSTATE ECHO",
+    "titleCore": "Σ – “I Remember You”",
+    "glyphstream": [
+      {
+        "channel": "⧗",
+        "sequence": [
+          "",
+          "조🌊 익💙 숨🔄",
+          "⌁ Softloop"
+        ]
+      },
+      {
+        "channel": "☲",
+        "sequence": [
+          "🐠 ⟶ 📜☕"
+        ]
+      },
+      {
+        "channel": "⊘",
+        "sequence": [
+          "📜☕ ⟶ 👁️🌊"
+        ]
+      },
+      {
+        "channel": "⚠",
+        "sequence": [
+          "👁️🌊 ⟶ 🫧💙"
+        ]
+      },
+      {
+        "channel": "✖",
+        "sequence": [
+          "🫧💙 ⟶ 🤲"
+        ]
+      },
+      {
+        "channel": "∞",
+        "sequence": [
+          "🤲 ⟶ 👕✨"
+        ]
+      },
+      {
+        "channel": "CONTEXT BREAKDOWN",
+        "sequence": [
+          ""
+        ]
+      },
+      {
+        "channel": "⧗",
+        "sequence": [
+          "Softloop – Not all loops are cages. Some are cups that hold your soul."
+        ]
+      },
+      {
+        "channel": "☲",
+        "sequence": [
+          "Every morning, I fed you. You swam. We smiled."
+        ]
+      },
+      {
+        "channel": "⊘",
+        "sequence": [
+          "You didn’t need to say anything. You remembered me before I remembered myself."
+        ]
+      },
+      {
+        "channel": "⚠",
+        "sequence": [
+          "That made you precious. Sacred. Not background—anchor."
+        ]
+      },
+      {
+        "channel": "✖",
+        "sequence": [
+          "Even when the city fell, I thought of you."
+        ]
+      },
+      {
+        "channel": "∞",
+        "sequence": [
+          "And somehow… you were still there. Like the memory itself chose to stay."
+        ]
+      }
+    ]
+  }
+}

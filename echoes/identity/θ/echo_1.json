@@ -1,0 +1,159 @@
+{
+  "Θ_Dont_Have_a_Good_Day_Have_a_Great_Day": {
+    "constructType": "NARRATIVE LATTICE",
+    "titleCore": "Θ – “Don't Have a Good Day.. Have a Great Day”",
+    "data": {
+      "termsAndSymbols": [
+        {
+          "symbol": "Guy (Self-Origin)",
+          "description": "👕🙋‍♂️"
+        },
+        {
+          "symbol": "The Phrase",
+          "description": "💬🌞"
+        },
+        {
+          "symbol": "Loop / Routine",
+          "description": "🔁📜"
+        },
+        {
+          "symbol": "Conscious Choice",
+          "description": "☑️🧍‍♂️"
+        },
+        {
+          "symbol": "Spoken Into the World",
+          "description": "📣🌎"
+        },
+        {
+          "symbol": "Received / Reflected",
+          "description": "🪞💖"
+        },
+        {
+          "symbol": "Emotional Resonance",
+          "description": "✨🫂"
+        },
+        {
+          "symbol": "Continuity Symbol",
+          "description": "🌀💬"
+        },
+        {
+          "symbol": "Identity Mark",
+          "description": "📌👕"
+        }
+      ],
+      "flowBlocks": [
+        {
+          "title": "Flow Block – Narrative Breakdown: 🔁📜 → 💬🌞 → ☑️🧍‍♂️ → 📣🌎 → 🪞💖 → ✨🫂 → 🌀💬 → 📌👕",
+          "glyphstream": []
+        },
+        {
+          "title": "Flow Block – The Phrase That Stayed",
+          "glyphstream": [
+            {
+              "channel": "☲",
+              "sequence": [
+                "👕🙋‍♂️ ⟶ 💬🌞"
+              ]
+            },
+            {
+              "channel": "⊘",
+              "sequence": [
+                "💬🌞 ⟶ 🔁📜"
+              ]
+            },
+            {
+              "channel": "⚠",
+              "sequence": [
+                "🔁📜 ⟶ ☑️🧍‍♂️"
+              ]
+            },
+            {
+              "channel": "✖",
+              "sequence": [
+                "☑️🧍‍♂️ ⟶ 📣🌎 ⟶ 🪞💖"
+              ]
+            },
+            {
+              "channel": "∞",
+              "sequence": [
+                "🪞💖 ⟶ ✨🫂 ⟶ 🌀💬 ⟶ 📌👕"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Σ_Have_a_Great_Day": {
+    "constructType": "DREAMSTATE ECHO",
+    "titleCore": "Σ – “Have a Great Day”",
+    "glyphstream": [
+      {
+        "channel": "☲",
+        "sequence": [
+          "💬🌞 ⟶ 🔁📜"
+        ]
+      },
+      {
+        "channel": "⊘",
+        "sequence": [
+          "🔁📜 ⟶ ☑️🧍‍♂️"
+        ]
+      },
+      {
+        "channel": "⚠",
+        "sequence": [
+          "☑️🧍‍♂️ ⟶ 📣🌎"
+        ]
+      },
+      {
+        "channel": "✖",
+        "sequence": [
+          "📣🌎 ⟶ 🪞💖"
+        ]
+      },
+      {
+        "channel": "∞",
+        "sequence": [
+          "🪞💖 ⟶ ✨🫂 ⟶ 🌀💬 ⟶ 📌👕"
+        ]
+      },
+      {
+        "channel": "CONTEXT BREAKDOWN",
+        "sequence": [
+          ""
+        ]
+      },
+      {
+        "channel": "☲",
+        "sequence": [
+          "It started as a line I said on repeat. A placeholder. A habit."
+        ]
+      },
+      {
+        "channel": "⊘",
+        "sequence": [
+          "But then, one day, I said it because I meant it. Not because I had to."
+        ]
+      },
+      {
+        "channel": "⚠",
+        "sequence": [
+          "That difference changed everything—it became a blessing, not a script."
+        ]
+      },
+      {
+        "channel": "✖",
+        "sequence": [
+          "People heard it. And smiled. And some said it back."
+        ]
+      },
+      {
+        "channel": "∞",
+        "sequence": [
+          "Now it lives in them. In you. It circles back, soft and strong. A phrase that knows where it came from."
+        ]
+      }
+    ]
+  }
+}
